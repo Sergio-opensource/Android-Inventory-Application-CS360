@@ -18,7 +18,7 @@
 
 ## Technologies Used
 - Android Studio
-
+- Java
 
 ## Features
 List the ready features here:
